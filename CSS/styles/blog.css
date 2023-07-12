@@ -1,0 +1,14 @@
+.header{height: 200px;
+background-color: aquamarine;
+background-image: url(nazifa.jpg);
+background-repeat: repeat-x;
+background-size: contain;
+background-image: url('../Photo\ 3280.jpg');
+}
+
+h3{font-size: 30px;
+text-decoration: overline;}
+.fourth{/*display: none;}
+
+
+.header{background-color: red;}
